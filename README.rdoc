@@ -1,5 +1,9 @@
 == Accounts
 
+  creating_customer_accounts
+  editing_customer_accounts
+  deleting_customer_accounts
+
 == Projects
 
 == Tickets
